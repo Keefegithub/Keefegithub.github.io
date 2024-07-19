@@ -8,3 +8,12 @@
 section {
     padding-top: 15rem;
 }
+.gallery-img{
+    width: 100%;
+}
+#gallery .row > * {
+    padding: 0;
+  }
+#gallery {
+    background-color: #fffecb;
+}
